@@ -1,0 +1,1 @@
+{"name":"Local: arrays","url":"/home/shrey/Documents/a2z/arrays.cpp","tests":[{"id":1752741055330,"input":"1 5 6 4 9","output":"14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shrey/Documents/a2z/arrays.cpp","group":"local","local":true}

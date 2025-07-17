@@ -1,0 +1,1 @@
+{"name":"Local: intputoutput","url":"/home/shrey/Documents/a2z/intputoutput.cpp","tests":[{"id":1752738266995,"input":"1 2","output":"value of x:1the value of y2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shrey/Documents/a2z/intputoutput.cpp","group":"local","local":true}
