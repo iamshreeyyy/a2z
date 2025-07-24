@@ -1,0 +1,1 @@
+{"name":"Local: stringhash","url":"/home/shrey/Documents/a2z/arr/patterns/stl/maths.cpp/recurrsion/hashmap/stringhash.cpp","tests":[{"id":1753182992356,"input":"acfggg\n4\na\nc\nf\ng","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shrey/Documents/a2z/arr/patterns/stl/maths.cpp/recurrsion/hashmap/stringhash.cpp","group":"local","local":true}
