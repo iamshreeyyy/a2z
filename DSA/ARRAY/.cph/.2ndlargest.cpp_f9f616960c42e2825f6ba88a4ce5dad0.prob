@@ -1,0 +1,1 @@
+{"name":"Local: 2ndlargest","url":"/home/shrey/Documents/a2z/DSA/ARRAY/2ndlargest.cpp","tests":[{"id":1753351917748,"input":"5\n1 6 6 5 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shrey/Documents/a2z/DSA/ARRAY/2ndlargest.cpp","group":"local","local":true}
