@@ -1,0 +1,1 @@
+{"name":"Local: intersectionarr","url":"/home/shrey/Documents/a2z/DSA/ARRAY/intersectionarr.cpp","tests":[{"id":1753439875267,"input":"5\n6\n1 2 5 6 7 \n2 3 6 7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shrey/Documents/a2z/DSA/ARRAY/intersectionarr.cpp","group":"local","local":true}
